@@ -1,0 +1,7 @@
+﻿  VolumeRendering.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\jtkm6\desktop\volumerendering\volumerendering\dependencies\glfw_win64\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+glew32s.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32s.lib(glew.obj)' o en 'C:\Users\jtkm6\Desktop\VolumeRendering\x64\Debug\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  VolumeRendering.vcxproj -> C:\Users\jtkm6\Desktop\VolumeRendering\x64\Debug\VolumeRendering.exe
+  VolumeRendering.vcxproj -> C:\Users\jtkm6\Desktop\VolumeRendering\x64\Debug\VolumeRendering.pdb (Full PDB)
